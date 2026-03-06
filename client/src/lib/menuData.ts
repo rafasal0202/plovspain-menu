@@ -23,6 +23,7 @@ export const menuItems: MenuItem[] = [
     maxQuantity: 10,
     unit: "порция",
     images: [
+      "/assets/плов.jpg",
       "https://files.manuscdn.com/user_upload_by_module/session_file/310519663374134073/VbggHoMFBLsJGQoR.jpg",
       "https://files.manuscdn.com/user_upload_by_module/session_file/310519663374134073/yFZUsntKFJNmsfjU.jpg"
     ]
@@ -38,6 +39,7 @@ export const menuItems: MenuItem[] = [
     maxQuantity: 10,
     unit: "порция",
     images: [
+      "/assets/shurpa.jpg",
       "https://files.manuscdn.com/user_upload_by_module/session_file/310519663374134073/NElhrkCeUOHTdnRY.jpg",
       "https://files.manuscdn.com/user_upload_by_module/session_file/310519663374134073/SsRfrwIjzjyPTsnu.jpg"
     ]
@@ -53,6 +55,7 @@ export const menuItems: MenuItem[] = [
     maxQuantity: 6,
     unit: "порция",
     images: [
+      "/assets/kaza-kabob.jpg",
       "https://files.manuscdn.com/user_upload_by_module/session_file/310519663374134073/UUiWKlXXHBwgjYKt.jpg",
       "https://files.manuscdn.com/user_upload_by_module/session_file/310519663374134073/WfElpWeYCGRCRkql.jpg"
     ]
@@ -68,6 +71,7 @@ export const menuItems: MenuItem[] = [
     maxQuantity: 25,
     unit: "шт",
     images: [
+      "/assets/manty.webp",
       "https://files.manuscdn.com/user_upload_by_module/session_file/310519663374134073/foCnxUpehwQbattK.jpg",
       "https://files.manuscdn.com/user_upload_by_module/session_file/310519663374134073/ItwmZaklcpsxpPuD.jpeg"
     ]
@@ -83,6 +87,7 @@ export const menuItems: MenuItem[] = [
     maxQuantity: 3,
     unit: "порция",
     images: [
+      "/assets/люля.jpg",
       "https://files.manuscdn.com/user_upload_by_module/session_file/310519663374134073/cQUpyjrcEarjLTKK.jpg",
       "https://files.manuscdn.com/user_upload_by_module/session_file/310519663374134073/WogXtZbPuytpKcBK.jpg"
     ]
@@ -98,6 +103,7 @@ export const menuItems: MenuItem[] = [
     maxQuantity: 30,
     unit: "шт",
     images: [
+      "/assets/samsa.png",
       "https://files.manuscdn.com/user_upload_by_module/session_file/310519663374134073/udWsdqIqYolSTYil.webp",
       "https://files.manuscdn.com/user_upload_by_module/session_file/310519663374134073/qLYKUhyWIyZNFhpl.jpg"
     ]
