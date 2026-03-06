@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Background -->
+  <rect width="64" height="64" fill="#1a1a1a" rx="8"/>
+  
+  <!-- PL heart VSPAIN text -->
+  <text x="32" y="28" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ff0000" text-anchor="middle">PL</text>
+  <text x="32" y="28" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ff0000" text-anchor="middle" dx="20">❤️</text>
+  <text x="32" y="28" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffff00" text-anchor="middle" dx="32">V</text>
+  
+  <!-- Uzbek ornament circle -->
+  <circle cx="32" cy="32" r="28" fill="none" stroke="#ff6b00" stroke-width="2" opacity="0.5"/>
+  <circle cx="32" cy="32" r="24" fill="none" stroke="#ffff00" stroke-width="1" opacity="0.3"/>
+</svg>
